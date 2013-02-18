@@ -1,0 +1,10 @@
+{
+    "name": "phpthumb/phpthumb",
+    "type": "library",
+    "description": "The core phpThumb class",
+    "authors": [
+        {
+            "name": "James Heinrich"
+        }
+    ]
+}
