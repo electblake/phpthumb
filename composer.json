@@ -8,9 +8,6 @@
         }
     ],
     "autoload": {
-        // "psr-0": {
-        //     "phpthumb\\phpthumb\\": "lib/"
-        // },
         "classmap": [
             "lib/phpthumb.class.php"
         ]
